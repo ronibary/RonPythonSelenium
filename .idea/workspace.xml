@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1368c615-63a9-46e9-bd8b-8224ccb3789e" name="Changes" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/selenium_sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_sample.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

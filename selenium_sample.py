@@ -5,6 +5,6 @@ driver.maximize_window()
 # implicitly wait 5 seconds for all elements before throwing Exception
 driver.implicitly_wait(5)
 
-driver.get('https://news.sky.com/')
+driver.get('https://youtube.com/')
 print(driver.title)
 driver.quit()
